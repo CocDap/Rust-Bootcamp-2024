@@ -39,12 +39,15 @@ Có 2 kiểu dữ liệu:
 + Scalar: lưu trữ đơn giá trị như integer, float, char, boolean, string 
 + Compound: lưu trữ đa giá trị như Array, Tuple
 
-Ví dụ:
+Ví dụ scalar:
 ```rust
    let bootcamp = "Rust Bootcamp"; 
    let year = 2024;           
    let free = true; 
 ```
+
+Ví dụ tuple:
+
 
 ## Ép kiểu dữ liệu 
 + Chuyển đổi kiểu dữ liệu này sang kiểu dữ liệu khác 
