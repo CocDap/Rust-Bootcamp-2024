@@ -46,7 +46,18 @@ Ví dụ scalar:
    let free = true; 
 ```
 
-Ví dụ tuple:
++ Array: Định nghĩa mảng
+
+```rust
+let arr: [i32; 5] = [1, 2, 3, 4, 5];
+```
++ Truy cập phần tử 
+
+```rust
+let first = arr[0];
+```
+
++ Đặc điểm: Cố định kích thước, Cùng kiểu dữ liệu 
 
 
 ## Ép kiểu dữ liệu 
@@ -67,6 +78,10 @@ let y = x as f64;
 
 Tài liệu tham khảo: https://doc.rust-lang.org/book/appendix-02-operators.html#operators
 
+
+## Exercise
+
+Truy cập link: https://www.openedu101.com/bootcamp/5gp9y3a3oze654s
 
 
 
