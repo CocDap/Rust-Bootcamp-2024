@@ -1,14 +1,11 @@
 ### Final Project
 
 ## Final project sẽ gồm các kiến thức sau: 
-+ Kiểu dữ liệu
-+ Struct
-+ Trait ( trait bound, associated type, )
-+ Generic Type 
-+ Viết unit tests (cách sử dụng `assert_eq!` để so sánh kết quả thực tế và kết quả mong muốn) (Phần này mặc dù ko có trong chương trình nhưng mọi người có thể hiểu đơn giản là viết các trường hợp test cho logic của mình có đúng hay không)
-+ Cấu trúc file cơ bản : `lib.rs`, các module khác ví dụ như `energy.rs`
-+ Macro trong Rust (Phần thảo luận)
-
+1. Kiểu dữ liệu
+2. Struct
+3. Trait ( trait bound, associated type, )
+4. Generic Type 
+5. Viết unit tests (cách sử dụng `assert_eq!` để so sánh kết quả thực tế và kết quả mong muốn) (Phần này mặc dù ko có trong chương trình nhưng mọi người có thể hiểu đơn giản là viết các trường hợp test cho logic của mình có đúng hay không)
 
 Ví dụ :
 + Định nghĩa viết test case 
@@ -29,6 +26,9 @@ mod tests {
 ```
 
 + Chạy test bằng `cargo test`
+
+6. Cấu trúc file cơ bản : `lib.rs`, các module khác ví dụ như `energy.rs` ( Phần thảo luận)
+7. Macro trong Rust (Phần thảo luận)
 
 ## Implementation
 + Đọc hiểu nội dung của logic 
