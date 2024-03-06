@@ -40,3 +40,11 @@ mod tests {
 ```bash
 cargo test 
 ```
+
+## Cách thức nộp bài 
+Submit kết quả trên nền tảng `OpenEdu101 - Rust Bootcamp 2024`
+https://www.openedu101.com/bootcamp/5gp9y3a3oze654s
+
+Gồm có: 
++ Final Project Github Link 
++ A screenshot of your terminal after running `cargo test`
